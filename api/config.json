@@ -1,0 +1,8 @@
+{
+  "port": {
+    "dev": 3002,
+    "prod": 2034
+  },
+  "env": "dev",
+  "debug": true
+}
